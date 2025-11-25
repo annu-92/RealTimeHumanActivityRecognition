@@ -1,0 +1,1907 @@
+================================================================================
+FILE: 10_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(13, 2), dtype=uint16
+  sample rows: [[236, 257], [649, 685], [980, 1008], [1308, 1330], [1712, 1735], [2168, 2186]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[606, 627], [2357, 2373], [257, 291], [686, 760], [1010, 1050], [1331, 1387]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2,), dtype=uint16
+  sample rows: [1737, 1765]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[300, 526], [765, 850], [1053, 1151], [1392, 1568], [2217, 2267], [2419, 2583]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[178, 230], [865, 965], [1167, 1298], [1580, 1703], [2597, 2704], [2926, 3046]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 10_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[134, 151], [223, 243], [460, 474], [762, 797], [851, 865], [969, 989]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[865, 892], [995, 1028], [3125, 3140], [3455, 3473], [4037, 4060], [153, 178]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[402, 459], [477, 544], [799, 851], [1257, 1320], [1653, 1755]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[180, 221], [283, 370], [615, 650], [1095, 1136], [1357, 1512], [1821, 1848]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[579, 615], [651, 761], [1137, 1218], [1522, 1614], [1854, 1914], [2551, 2583]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 10_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[294, 320], [480, 506], [603, 619], [637, 661], [871, 892], [1198, 1244]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[619, 634], [809, 829], [3698, 3719], [3996, 4014], [321, 341], [439, 449]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[396, 439], [1245, 1266], [1406, 1424], [1678, 1694], [2639, 2656], [3523, 3543]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[343, 373], [524, 581], [922, 944], [1301, 1328], [1447, 1500], [1722, 1745]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[265, 293], [947, 1198], [1351, 1368], [1542, 1641], [2366, 2595], [2742, 3053]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 11_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[228, 259], [684, 714], [1258, 1276], [1424, 1459], [1461, 1495], [2004, 2023]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[1057, 1098], [1409, 1423], [1640, 1662], [2349, 2370], [2506, 2529], [293, 327]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[261, 288], [1362, 1409], [2027, 2055], [2203, 2268], [2288, 2347], [2444, 2498]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[328, 351], [809, 1003], [1129, 1213], [1527, 1590], [2079, 2102], [2673, 2759]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[361, 674], [2374, 2414], [2530, 2609], [2763, 2954]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 11_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[581, 613], [1034, 1064], [1282, 1326], [1526, 1555], [1776, 1813], [2462, 2488]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[758, 806], [1440, 1489], [1739, 1775], [2113, 2175], [2760, 2777], [2893, 2921]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[1073, 1282], [1326, 1437], [2493, 2525], [2783, 2893], [3150, 3253], [3284, 3499]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[653, 695], [1608, 1681], [1871, 2043], [2575, 2722]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[264, 572], [809, 1033], [1490, 1525], [2922, 2974], [3108, 3128], [4172, 4228]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 11_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[234, 257], [474, 511], [685, 717], [1087, 1120], [1386, 1419], [1634, 1651]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[307, 347], [752, 843], [1143, 1190], [1422, 1519], [1680, 1735], [2263, 2330]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[259, 304], [511, 685], [717, 751], [1121, 1142], [1652, 1680], [2252, 2262]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(0,), dtype=uint8
+  sample rows: []
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[349, 474], [844, 1086], [1192, 1384], [1521, 1632], [1736, 1852], [2332, 2444]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 12_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[193, 224], [506, 531], [641, 675], [919, 941], [1239, 1255], [1377, 1399]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[565, 590], [853, 873], [1159, 1180], [2297, 2310], [2950, 2972], [232, 266]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2,), dtype=uint16
+  sample rows: [458, 532]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[265, 409], [713, 817], [1004, 1094], [1305, 1359], [1442, 1549], [1720, 1733]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[597, 631], [878, 911], [1216, 1235], [1552, 1645], [2313, 2367], [2550, 2786]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 12_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(22, 2), dtype=uint16
+  sample rows: [[202, 220], [369, 396], [581, 605], [810, 836], [1100, 1117], [1359, 1409]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(23, 2), dtype=uint16
+  sample rows: [[332, 352], [519, 538], [691, 720], [724, 743], [1015, 1035], [1259, 1300]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[606, 690], [928, 950], [2490, 2562]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[263, 291], [452, 483], [691, 719], [1157, 1220], [1447, 1556], [1692, 1763]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[541, 581], [746, 808], [1037, 1098], [1301, 1358], [1609, 1636], [2270, 2463]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 12_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[295, 344], [398, 398], [437, 475], [587, 632], [839, 886], [1133, 1163]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[1684, 1703], [397, 437], [516, 550], [704, 745], [897, 922], [1164, 1215]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[347, 396], [477, 515], [640, 703], [2587, 2612], [2977, 3001], [3463, 3552]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[924, 997], [1216, 1259], [1502, 1684], [2168, 2224], [2732, 2760], [3617, 3677]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[244, 294], [554, 584], [749, 836], [1034, 1130], [1323, 1420], [1723, 1843]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 13_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[612, 630], [1033, 1052], [1327, 1345], [1914, 1947], [2673, 2716], [3039, 3055]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[1597, 1630], [3018, 3034], [3684, 3700], [674, 697], [1063, 1103], [1350, 1381]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[633, 669], [3197, 3237]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[700, 986], [1107, 1268], [1423, 1534], [1985, 2023], [2766, 2953], [3098, 3122]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[1645, 1879], [3128, 3167], [3282, 3390]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 13_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[548, 564], [1424, 1439], [2199, 2244], [2621, 2634], [2935, 2957], [3699, 3720]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[1367, 1392], [2532, 2561], [2853, 2887], [3258, 3291], [4144, 4181], [581, 607]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[565, 580], [923, 955], [2958, 3002], [3721, 3745]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[609, 882], [982, 1313], [1515, 1903], [2297, 2408], [2675, 2797], [3030, 3225]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[1393, 1423], [2411, 2512], [2563, 2619], [2889, 2932], [3291, 3697], [4181, 4324]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 13_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[369, 433], [607, 639], [1066, 1090], [1376, 1407], [1743, 1777], [2546, 2586]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[1023, 1063], [1350, 1376], [1649, 1703], [3416, 3469], [3849, 3903], [433, 497]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[2697, 2705], [2732, 2754]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[752, 972], [1142, 1295], [1438, 1609], [3129, 3345], [3613, 3785]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[222, 369], [499, 605], [1704, 1742], [2618, 2657], [2801, 3055], [3469, 3502]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 14_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[404, 448], [454, 474], [891, 928], [1627, 1647], [2300, 2323], [2761, 2790]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[1255, 1292], [3425, 3444], [3943, 3974], [455, 491], [930, 961], [1676, 1717]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[1649, 1674], [2324, 2334]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[495, 598], [964, 1178], [2387, 2679], [2820, 2932], [3137, 3214], [3765, 3835]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[178, 396], [616, 866], [1309, 1615], [2685, 2757], [2949, 3062], [3225, 3370]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 14_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[335, 359], [681, 702], [1037, 1055], [1272, 1306], [2551, 2580], [3198, 3225]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[3114, 3132], [3719, 3749], [361, 385], [703, 754], [1102, 1129], [1323, 1364]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[1056, 1101], [1306, 1322], [3226, 3253]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[387, 531], [756, 901], [1367, 2016], [2608, 3066], [3276, 3447], [3633, 3680]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[535, 674], [907, 1037], [1133, 1270], [2021, 2137], [3134, 3196], [3448, 3561]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 14_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[232, 262], [797, 849], [1110, 1150], [1485, 1540], [1703, 1732], [2309, 2346]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[1944, 1973], [2606, 2638], [3082, 3102], [267, 297], [422, 461], [849, 907]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2,), dtype=uint16
+  sample rows: [1150, 1169]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[301, 390], [907, 996], [1204, 1252], [1767, 1893], [2382, 2406], [2543, 2579]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[463, 795], [1035, 1105], [1304, 1483], [1592, 1702], [2253, 2309], [2409, 2454]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 15_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[1218, 1242], [1442, 1466], [1699, 1729], [1995, 2016], [2499, 2542], [3232, 3277]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[1627, 1643], [1917, 1961], [2593, 2618], [3321, 3337], [1245, 1265], [1482, 1512]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[1466, 1481], [1730, 1750], [2550, 2584], [3286, 3321]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[1273, 1387], [1521, 1580], [1791, 1852]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[169, 1208], [1393, 1434], [1648, 1693], [1965, 1991], [2405, 2488], [2622, 3227]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 15_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(32, 2), dtype=uint16
+  sample rows: [[157, 176], [497, 522], [704, 727], [977, 988], [1309, 1345], [2074, 2101]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(24, 2), dtype=uint16
+  sample rows: [[1853, 1872], [2172, 2193], [2574, 2595], [3132, 3146], [3179, 3195], [3817, 3836]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[261, 299], [728, 749], [972, 977], [989, 995], [1347, 1406], [1741, 1852]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[204, 228], [338, 416], [548, 685], [772, 943], [1025, 1251], [1431, 1707]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[1295, 1308], [3196, 3270]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 15_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(21, 2), dtype=uint16
+  sample rows: [[139, 175], [286, 312], [421, 455], [583, 617], [836, 872], [1034, 1055]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(20, 2), dtype=uint16
+  sample rows: [[1007, 1032], [3308, 3355], [3388, 3420], [3776, 3808], [175, 226], [323, 361]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[313, 321], [617, 689], [1249, 1332], [2608, 2675], [2933, 2960], [3042, 3062]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[364, 398], [530, 549], [733, 810], [926, 988], [1085, 1121], [1449, 1504]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[1124, 1201], [1533, 1555], [2229, 2264], [2432, 2556], [2699, 2834], [3175, 3247]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 16_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[179, 192], [531, 549], [1049, 1076], [1500, 1526], [1675, 1699], [2084, 2105]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[491, 525], [1416, 1439], [1659, 1672], [1701, 1730], [2462, 2478], [2805, 2822]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[192, 218], [437, 488], [552, 573], [1300, 1412], [1631, 1658], [3174, 3199]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[259, 397], [613, 675], [1124, 1209], [1562, 1592], [2139, 2310], [2365, 2404]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[691, 1037], [1213, 1247], [1443, 1496], [3048, 3127], [3550, 3865]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 16_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[467, 503], [836, 863], [1140, 1219], [1805, 1841], [1932, 1959], [2465, 2490]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[1908, 1931], [2005, 2017], [2660, 2689], [2874, 2899], [3026, 3046], [3734, 3763]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[1065, 1138], [1961, 2003], [2569, 2605], [2629, 2659], [2689, 2738], [2768, 2805]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[539, 718], [904, 1028], [1249, 1336], [2525, 2541], [2829, 2848], [3501, 3681]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[188, 465], [721, 832], [1341, 1801], [2437, 2464], [2901, 2946], [3048, 3158]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 16_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[359, 381], [468, 483], [709, 742], [1119, 1149], [1719, 1746], [2616, 2650]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[408, 443], [1671, 1717], [2833, 2861], [3037, 3061], [3335, 3370], [507, 553]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[381, 405], [484, 507], [596, 707], [744, 775], [1149, 1174], [1746, 1783]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[552, 581], [838, 982], [1226, 1595], [1827, 2081], [2683, 2781], [3176, 3243]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[238, 360], [444, 466], [1027, 1117], [2573, 2617], [2862, 2929], [3062, 3107]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 17_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[127, 143], [428, 446], [688, 714], [1175, 1217], [2034, 2055], [2621, 2661]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[415, 426], [517, 545], [1075, 1092], [1509, 1539], [2586, 2609], [2941, 2963]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[145, 164], [717, 736], [1220, 1257], [1478, 1507], [2179, 2251], [2556, 2584]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[186, 389], [477, 482], [762, 1038], [1305, 1428], [2091, 2152], [2281, 2514]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[550, 682], [1096, 1174], [1543, 1790], [2966, 2992], [3114, 3156], [3292, 3452]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 17_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(26, 2), dtype=uint16
+  sample rows: [[169, 188], [696, 770], [1145, 1173], [1335, 1365], [1425, 1453], [1577, 1605]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(21, 2), dtype=uint16
+  sample rows: [[1077, 1108], [1321, 1334], [1482, 1499], [2576, 2589], [2880, 2892], [3122, 3136]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[773, 866], [1039, 1075], [1455, 1478], [2251, 2733], [2869, 2880], [2914, 2935]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[227, 651], [899, 995], [1210, 1290], [1639, 1853], [2488, 2506], [2987, 3074]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[1111, 1145], [1371, 1417], [1501, 1573], [2674, 2714], [2758, 2837], [3668, 3722]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 17_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(26, 2), dtype=uint16
+  sample rows: [[134, 168], [282, 311], [462, 494], [682, 726], [878, 908], [1036, 1076]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(24, 2), dtype=uint16
+  sample rows: [[2039, 2054], [3088, 3129], [3519, 3554], [4151, 4183], [4352, 4374], [172, 205]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[1079, 1117], [1464, 1487], [1632, 1722], [1912, 1924], [1946, 1982], [2687, 2854]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[1534, 1585], [2460, 2536], [2890, 2991], [3330, 3340]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[205, 279], [341, 461], [545, 682], [795, 881], [999, 1035], [1189, 1223]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 18_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(22, 2), dtype=uint16
+  sample rows: [[166, 193], [329, 345], [426, 456], [770, 804], [1097, 1134], [1430, 1465]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(19, 2), dtype=uint16
+  sample rows: [[408, 425], [717, 748], [1039, 1064], [1388, 1424], [1472, 1510], [1828, 1845]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[345, 408], [670, 715], [2849, 2875], [3221, 3246], [3409, 3556]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[244, 271], [501, 581], [851, 981], [1170, 1316], [1690, 1773], [2239, 2454]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[749, 770], [1064, 1096], [1511, 1608], [2532, 2575], [3264, 3374]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 18_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[141, 173], [368, 413], [615, 658], [841, 862], [1059, 1092], [1419, 1451]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[414, 439], [502, 523], [545, 573], [1033, 1056], [1222, 1240], [1388, 1414]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[173, 194], [658, 689], [816, 841], [1194, 1221], [1359, 1387], [1451, 1485]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[216, 368], [440, 466], [715, 782], [901, 997], [2246, 2471], [2798, 3035]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[576, 614], [1241, 1359], [1524, 1828], [2528, 2723], [3093, 3132], [3178, 3366]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 18_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[185, 219], [647, 674], [937, 968], [1152, 1177], [1447, 1484], [2262, 2299]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[1082, 1119], [3721, 3752], [490, 557], [708, 743], [1195, 1221], [1518, 1586]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[219, 488], [673, 708], [971, 1081], [1484, 1516]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[1586, 1813], [3635, 3653]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[560, 643], [773, 934], [1120, 1150], [1221, 1446], [2507, 2771], [3059, 3223]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 19_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[180, 238], [571, 594], [801, 825], [934, 981], [1229, 1270], [1431, 1453]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[695, 717], [238, 267], [844, 898], [1065, 1107], [1271, 1292], [1486, 1526]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[598, 693], [826, 844], [982, 1065], [1454, 1485], [2432, 2464], [2591, 2611]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(2,), dtype=uint16
+  sample rows: [3007, 3058]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[269, 568], [720, 797], [900, 932], [1108, 1228], [1293, 1430], [1527, 1627]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 19_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[212, 242], [737, 769], [908, 934], [1164, 1187], [1252, 1291], [1328, 1380]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[401, 446], [889, 906], [2798, 2822], [3040, 3073], [3235, 3260], [251, 306]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[771, 889], [1292, 1328], [1624, 1675], [1783, 1805], [2711, 2797], [2943, 3039]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[309, 338], [1856, 1882], [2402, 2452], [2584, 2619]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[447, 735], [967, 1159], [1430, 1570], [2245, 2323], [2622, 2681], [2823, 2900]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 19_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(22, 2), dtype=uint16
+  sample rows: [[236, 277], [423, 468], [564, 600], [727, 766], [884, 934], [1060, 1086]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(22, 2), dtype=uint16
+  sample rows: [[1598, 1624], [311, 372], [468, 507], [601, 632], [772, 829], [965, 1023]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[277, 311], [935, 964], [1249, 1277], [1369, 1392], [1860, 2010], [2645, 2681]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(0,), dtype=uint8
+  sample rows: []
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[372, 419], [508, 564], [635, 727], [831, 883], [1441, 1466], [1625, 1701]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 1_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(22, 2), dtype=uint16
+  sample rows: [[156, 183], [434, 459], [914, 939], [1027, 1067], [1524, 1560], [1968, 2004]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(22, 2), dtype=uint16
+  sample rows: [[406, 416], [418, 433], [739, 764], [1247, 1289], [2273, 2300], [2440, 2458]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[406, 416], [1201, 1246], [1322, 1456]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[217, 371], [566, 686], [1070, 1147], [1601, 1662], [2005, 2028], [2054, 2169]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[784, 894], [1470, 1511], [1923, 1963], [2468, 2558], [3046, 3255], [3458, 3575]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 1_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(19, 2), dtype=uint16
+  sample rows: [[240, 270], [473, 502], [1159, 1184], [1385, 1414], [2098, 2119], [2141, 2166]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(19, 2), dtype=uint16
+  sample rows: [[444, 471], [1064, 1104], [1255, 1284], [1909, 1923], [2247, 2264], [2376, 2403]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[504, 722], [1187, 1253], [1414, 1443], [2168, 2246], [2352, 2374]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[307, 403], [762, 888], [993, 1012], [1484, 1878], [2168, 2245], [2265, 2310]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[201, 238], [1107, 1157], [1286, 1383], [2406, 2456], [2685, 2841], [3071, 3165]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 1_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(20, 2), dtype=uint16
+  sample rows: [[270, 300], [612, 636], [895, 918], [1202, 1224], [1441, 1462], [1787, 1820]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(20, 2), dtype=uint16
+  sample rows: [[554, 579], [853, 877], [1170, 1199], [2829, 2854], [3167, 3191], [4652, 4679]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[302, 324], [513, 553], [1154, 1169], [2702, 2741], [2929, 3166], [3755, 3794]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(13, 2), dtype=uint16
+  sample rows: [[366, 463], [667, 829], [944, 1107], [1253, 1382], [1499, 1594], [1860, 1981]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[236, 268], [580, 611], [878, 894], [1407, 1440], [1615, 1785], [2002, 2089]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 20_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[259, 296], [792, 815], [923, 941], [2307, 2331], [2712, 2739], [3051, 3081]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[1383, 1403], [2619, 2650], [3185, 3199], [302, 324], [508, 551], [610, 639]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[423, 505], [581, 608], [2841, 2872], [3083, 3138], [3729, 3780]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[325, 366], [2368, 2531], [2770, 2797], [3201, 3233], [3405, 3437]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[643, 789], [863, 921], [985, 1281], [1405, 1684], [1769, 1862], [2533, 2577]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 20_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[211, 236], [309, 335], [579, 598], [1040, 1083], [2264, 2298], [3593, 3626]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[973, 994], [2933, 2973], [4251, 4279], [4945, 4970], [252, 280], [336, 364]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[599, 679], [2304, 2930], [3631, 3671]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[281, 307], [367, 533], [731, 931], [996, 1039], [1155, 1349], [3709, 3820]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[1359, 1969], [2981, 3587], [3822, 3883], [4281, 4819]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 20_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(21, 2), dtype=uint16
+  sample rows: [[349, 387], [647, 671], [1176, 1207], [1657, 1685], [1842, 1869], [2056, 2077]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(20, 2), dtype=uint16
+  sample rows: [[611, 647], [1557, 1581], [1754, 1785], [3304, 3321], [3863, 3886], [4427, 4462]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[996, 1012], [1409, 1445], [2797, 2871], [3614, 3765], [4294, 4331], [4557, 4625]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[429, 551], [699, 922], [963, 975], [1049, 1094], [1240, 1380], [1481, 1513]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[248, 348], [923, 963], [1137, 1177], [1583, 1657], [1786, 1845], [1919, 2057]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 21_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[437, 459], [588, 605], [667, 691], [923, 940], [997, 1021], [1683, 1700]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[551, 581], [3976, 3992], [460, 495], [606, 667], [691, 726], [941, 973]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[2680, 2829], [3101, 3146], [3718, 3769]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[496, 514], [725, 802], [1082, 1310], [1759, 1828], [2397, 2551], [2854, 2919]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[805, 875], [1322, 1676], [2556, 2659], [2927, 3078], [3227, 3515], [3833, 3851]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 21_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[255, 273], [521, 537], [826, 846], [1078, 1095], [1285, 1307], [1411, 1441]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[372, 400], [1197, 1220], [1444, 1463], [1837, 1864], [3065, 3096], [3955, 4006]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[847, 855], [1096, 1196], [1308, 1336], [1712, 1836], [2225, 2529], [2577, 2770]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[571, 601], [1362, 1387], [2529, 2549], [3861, 3883]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[405, 518], [601, 825], [973, 1074], [1221, 1285], [1463, 1687], [1868, 1961]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 21_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(13, 2), dtype=uint16
+  sample rows: [[248, 269], [486, 498], [679, 704], [1024, 1044], [1496, 1519], [1862, 1887]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[452, 470], [586, 601], [1314, 1340], [269, 305], [507, 556], [705, 742]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[498, 507], [2994, 3331], [3652, 3706]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[310, 414], [743, 808], [1069, 1280], [1554, 1626], [1927, 1998], [2629, 2784]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[471, 485], [601, 678], [811, 1024], [1343, 1494], [1627, 1860], [2471, 2549]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 22_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[279, 308], [555, 582], [1022, 1070], [1820, 1872], [2514, 2550], [2693, 2724]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[2868, 2902], [312, 363], [617, 658], [1072, 1110], [1879, 1933], [2555, 2600]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[586, 613], [3198, 3287], [3859, 3885]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[672, 870], [1124, 1444], [1940, 2011], [2607, 2684], [2765, 2829], [3351, 3688]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[374, 549], [879, 1018], [1455, 1812], [2904, 3145], [3688, 3827]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 22_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[240, 265], [594, 618], [1182, 1224], [1625, 1650], [2465, 2511], [2712, 2739]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[266, 316], [620, 667], [1226, 1272], [1653, 1742], [2514, 2561], [2745, 2807]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2,), dtype=uint16
+  sample rows: [3949, 3987]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[323, 451], [668, 1006], [1275, 1345], [1748, 2106], [2809, 3051], [3329, 3512]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[179, 234], [460, 585], [1015, 1173], [1354, 1621], [2412, 2462], [2568, 2706]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 22_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[216, 249], [471, 501], [861, 888], [1256, 1288], [1594, 1632], [2364, 2411]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[251, 309], [505, 567], [1049, 1087], [1291, 1359], [1635, 1666], [1805, 1835]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[892, 1047], [1775, 1804], [2581, 2614], [2962, 3019], [3283, 3322], [3631, 3661]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[315, 339], [569, 683], [1360, 1408], [1669, 1729], [1837, 1921], [2667, 2750]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[381, 469], [689, 859], [1090, 1252], [1473, 1593], [1955, 1979], [2467, 2541]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 23_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[375, 394], [1545, 1582], [2164, 2179], [2237, 2247], [2405, 2434], [2691, 2716]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[1345, 1368], [1739, 1798], [2356, 2382], [2654, 2688], [2956, 2971], [3335, 3351]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[784, 811], [1125, 1143], [1582, 1738], [2231, 2237], [2247, 2254], [2434, 2454]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[440, 738], [892, 1064], [1195, 1294], [2281, 2307], [2478, 2621], [3130, 3272]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[243, 368], [1378, 1538], [2819, 2955], [2973, 3054], [3353, 3505], [3599, 3777]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 23_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(19, 2), dtype=uint16
+  sample rows: [[763, 780], [1161, 1196], [2583, 2610], [2907, 2941], [3319, 3363], [4340, 4390]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[940, 983], [2292, 2311], [2732, 2758], [3066, 3083], [4159, 4192], [4574, 4608]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[1201, 1220], [1690, 1712], [2712, 2732], [3364, 3391], [3689, 3758], [4694, 4867]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[816, 888], [1264, 1633], [1755, 2078], [2984, 3032], [3438, 3639], [3804, 4111]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[988, 1159], [2321, 2583], [2765, 2905], [4195, 4335], [4609, 4628]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 23_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[366, 402], [1710, 1746], [2888, 2927], [4165, 4204], [4477, 4514], [5104, 5156]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[1033, 1060], [2027, 2061], [3106, 3155], [4401, 4438], [5067, 5103], [408, 474]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[615, 729], [854, 914], [1916, 2024], [4755, 4824]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[483, 557], [1779, 1839], [3014, 3055], [4276, 4347], [4555, 4708], [4874, 5008]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[1064, 1707], [2065, 2097], [2393, 2886], [3156, 4163], [4440, 4475], [5521, 5625]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 24_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[614, 642], [1062, 1089], [1652, 1692], [2265, 2299], [2371, 2402], [2495, 2522]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[1545, 1578], [2331, 2356], [2441, 2472], [2562, 2577], [3103, 3121], [3352, 3371]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[1699, 1818], [2301, 2328], [2404, 2439], [2524, 2560], [2618, 2627], [2807, 2827]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[684, 885], [1152, 1469], [1843, 1863], [2667, 2732], [2879, 3001]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[192, 609], [890, 1058], [1581, 1651], [2203, 2263], [2473, 2493], [2578, 2602]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 24_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(21, 2), dtype=uint16
+  sample rows: [[178, 195], [749, 833], [885, 932], [1339, 1367], [1743, 1808], [2537, 2577]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(21, 2), dtype=uint16
+  sample rows: [[432, 450], [834, 883], [1271, 1304], [1556, 1580], [2250, 2282], [2733, 2768]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[196, 237], [934, 1003], [3153, 3181]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[271, 394], [1033, 1203], [1411, 1492], [1859, 2130], [2615, 2665], [2964, 3064]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[453, 747], [1304, 1338], [1583, 1742], [2133, 2210], [2769, 2888], [3435, 3674]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 24_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(19, 2), dtype=uint16
+  sample rows: [[287, 315], [668, 702], [1119, 1141], [1190, 1226], [1279, 1313], [1575, 1603]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(19, 2), dtype=uint16
+  sample rows: [[525, 547], [2425, 2437], [3259, 3278], [3302, 3323], [315, 351], [703, 750]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[1141, 1156], [1226, 1251], [1312, 1332], [2914, 3000], [3163, 3258], [3761, 3787]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[353, 493], [2193, 2366], [3046, 3117]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[177, 282], [547, 666], [783, 1100], [1373, 1573], [1702, 2096], [2829, 2862]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 25_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[272, 312], [358, 383], [858, 897], [1225, 1256], [1594, 1626], [2281, 2308]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[413, 434], [1419, 1460], [2570, 2583], [3744, 3763], [320, 355], [961, 999]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[384, 412], [897, 960], [2781, 2842]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[1007, 1129], [1673, 1875], [2365, 2526], [2879, 3441], [3675, 3702]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[232, 264], [439, 852], [1132, 1218], [1306, 1375], [1467, 1590], [2207, 2281]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 25_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(13, 2), dtype=uint16
+  sample rows: [[466, 519], [818, 859], [1187, 1221], [1446, 1473], [2109, 2133], [2501, 2537]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(13, 2), dtype=uint16
+  sample rows: [[2085, 2108], [2208, 2220], [3596, 3624], [3843, 3876], [521, 567], [682, 748]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[606, 681], [1010, 1056], [2135, 2208], [2542, 2566]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[903, 962], [1502, 2045], [2595, 3196], [3453, 3535], [3738, 3782]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[753, 815], [1092, 1184], [1258, 1444], [3198, 3373], [3628, 3662], [3877, 4245]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 25_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(13, 2), dtype=uint16
+  sample rows: [[216, 248], [317, 342], [677, 710], [996, 1043], [1387, 1416], [1523, 1555]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(13, 2), dtype=uint16
+  sample rows: [[1108, 1133], [2785, 2822], [250, 280], [398, 432], [788, 833], [1432, 1460]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[344, 397], [711, 786], [1045, 1105], [1416, 1431], [1555, 1569], [2419, 2439]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[432, 504], [834, 851], [1462, 1493], [2522, 2637]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[564, 680], [920, 993], [1138, 1384], [1641, 1702], [1864, 1905], [2291, 2387]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 26_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[222, 253], [926, 963], [1385, 1416], [1660, 1686], [2291, 2320], [2779, 2812]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[1215, 1260], [1495, 1530], [1812, 1836], [2688, 2706], [3306, 3318], [3971, 3992]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[259, 366], [1420, 1492], [2494, 2515]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[424, 621], [1005, 1161], [1729, 1774], [2364, 2448], [2556, 2622], [3038, 3266]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[622, 920], [1267, 1377], [1537, 1660], [2709, 2781], [2849, 2961], [3329, 3410]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 26_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[184, 223], [254, 306], [1164, 1196], [1497, 1528], [1703, 1734], [2203, 2251]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[970, 1050], [1614, 1656], [2039, 2084], [3696, 3716], [4529, 4547], [394, 443]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[308, 394], [911, 969], [3587, 3601], [3730, 3746]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[448, 824], [1233, 1427], [1776, 1980], [2271, 2532], [3353, 3487], [3553, 3567]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[1050, 1161], [1430, 1494], [1657, 1701], [2086, 2202], [2535, 2765], [3088, 3256]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 26_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[245, 287], [527, 564], [947, 973], [1164, 1184], [1885, 1910], [2435, 2466]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[1337, 1360], [2007, 2028], [288, 322], [568, 605], [977, 1005], [1114, 1135]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[1096, 1113], [1185, 1205], [1289, 1336], [2466, 2480], [2879, 2895], [3295, 3358]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[323, 351], [605, 763], [1010, 1061], [1137, 1158], [1241, 1257], [1963, 1978]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[402, 525], [844, 946], [1397, 1885], [2385, 2435], [2508, 2679], [2763, 2830]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 27_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(13, 2), dtype=uint16
+  sample rows: [[230, 268], [637, 667], [1288, 1320], [2202, 2227], [2389, 2419], [2817, 2841]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(13, 2), dtype=uint16
+  sample rows: [[485, 511], [965, 997], [2312, 2340], [2608, 2641], [3565, 3583], [3752, 3770]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[3166, 3203], [3606, 3750]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[312, 423], [719, 924], [1369, 1690], [2455, 2576], [2920, 3115], [3244, 3538]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[522, 633], [997, 1288], [2114, 2201], [2342, 2389], [2642, 2815]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 27_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[659, 694], [1150, 1178], [1220, 1250], [1660, 1690], [2331, 2367], [2660, 2678]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[1030, 1071], [1205, 1220], [1550, 1582], [1915, 1940], [2641, 2660], [2864, 2898]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[1181, 1205], [2678, 2697], [3840, 3906]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[750, 956], [1299, 1502], [1748, 1874], [2426, 2571], [2752, 2812], [3104, 3131]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[195, 659], [1072, 1150], [1583, 1659], [2299, 2332], [2900, 3004], [3189, 3220]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 27_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[313, 345], [630, 655], [896, 941], [1320, 1355], [1624, 1677], [2334, 2372]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[2912, 2942], [3599, 3642], [3892, 3910], [465, 491], [705, 739], [1001, 1055]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[352, 466], [659, 703], [940, 999], [1354, 1384], [1677, 1702], [2665, 2713]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[496, 514], [743, 844], [1058, 1177], [1434, 1470], [2463, 2521], [2759, 2779]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[218, 312], [561, 625], [1238, 1316], [1504, 1621], [2226, 2332], [2562, 2595]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 28_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[286, 323], [1054, 1094], [1181, 1232], [1635, 1688], [2210, 2244], [2249, 2264]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(13, 2), dtype=uint16
+  sample rows: [[405, 471], [1904, 1946], [3344, 3393], [3634, 3648], [1231, 1285], [1691, 1746]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[329, 403], [1099, 1231], [2267, 2471], [2714, 2721], [2753, 2779], [2854, 2912]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[1289, 1581], [1751, 1856], [2734, 2744], [2798, 2828], [2957, 3012], [3294, 3307]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[479, 1052], [1581, 1633], [2602, 2684], [3021, 3189], [3401, 3471]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 28_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[330, 374], [1202, 1231], [1448, 1472], [1944, 1984], [2113, 2155], [3506, 3544]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[1397, 1447], [1595, 1615], [4177, 4196], [376, 420], [717, 758], [1236, 1280]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[1984, 2156], [3543, 3582], [3889, 3909]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[420, 717], [1283, 1371], [2219, 2462], [3659, 3858], [3956, 4142]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[237, 332], [759, 1201], [2463, 2586], [3234, 3507]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 28_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[188, 216], [750, 782], [825, 858], [1056, 1085], [1458, 1490], [1503, 1522]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[510, 552], [784, 821], [1386, 1416], [1491, 1502], [3567, 3596], [218, 237]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[1087, 1383], [2698, 2719], [3043, 3117]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[237, 459], [2217, 2261], [2517, 2534], [3397, 3524]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[555, 746], [978, 1050], [1418, 1456], [1577, 1731], [2263, 2422], [2589, 2653]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 29_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[811, 853], [1331, 1374], [1536, 1582], [2494, 2536], [3130, 3164], [3473, 3517]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[1455, 1493], [1758, 1803], [2947, 2981], [3193, 3223], [3591, 3608], [3668, 3694]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[1375, 1450], [1591, 1758], [2537, 2649], [3165, 3193], [3517, 3589], [3638, 3666]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(2,), dtype=uint16
+  sample rows: [2726, 2905]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[265, 800], [929, 1330], [1495, 1535], [1804, 1911], [2251, 2489], [2983, 3127]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 29_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[256, 306], [731, 762], [1279, 1332], [1466, 1492], [2289, 2316], [2343, 2363]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[947, 998], [1372, 1423], [1995, 2026], [3372, 3403], [3512, 3552], [4360, 4379]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[694, 728], [765, 944], [1335, 1371], [2674, 2704], [2897, 2981], [3071, 3119]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[341, 653], [1555, 1965], [2396, 2637], [2724, 2860], [3015, 3039], [3148, 3211]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[1003, 1278], [3403, 3483], [3552, 3969]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 29_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[751, 776], [1283, 1316], [1735, 1762], [2600, 2626], [3481, 3512], [3971, 4007]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[1267, 1282], [1484, 1502], [2573, 2599], [2697, 2712], [3933, 3970], [4011, 4065]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[888, 989], [1101, 1263], [1317, 1484], [1762, 2572], [2631, 2697], [3514, 3644]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[804, 862], [1024, 1054], [3666, 3883], [4408, 4739], [5233, 5500]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[1504, 1734], [2713, 2820], [4094, 4343], [4740, 5170]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 2_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(25, 2), dtype=uint16
+  sample rows: [[292, 327], [449, 471], [604, 631], [779, 800], [933, 954], [1064, 1094]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(23, 2), dtype=uint16
+  sample rows: [[244, 263], [557, 575], [862, 895], [991, 1010], [1263, 1285], [1522, 1546]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[472, 554], [958, 985], [1100, 1209], [1470, 1516], [1828, 1915], [2429, 2467]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[157, 199], [3124, 3145], [3192, 3209]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[133, 156], [393, 444], [700, 770], [1017, 1056], [1293, 1310], [1392, 1419]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 2_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(24, 2), dtype=uint16
+  sample rows: [[334, 384], [518, 547], [811, 831], [1076, 1111], [1241, 1269], [1344, 1371]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(23, 2), dtype=uint16
+  sample rows: [[928, 963], [1323, 1342], [1454, 1470], [1603, 1628], [2064, 2097], [2140, 2158]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[390, 432], [548, 575], [833, 926], [1112, 1133], [1372, 1453], [1569, 1602]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[3142, 3166], [3306, 3344]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(13, 2), dtype=uint16
+  sample rows: [[168, 330], [483, 513], [611, 806], [967, 1074], [1190, 1238], [1474, 1543]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 2_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(30, 2), dtype=uint16
+  sample rows: [[190, 215], [332, 357], [551, 587], [720, 747], [980, 1007], [1039, 1063]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(24, 2), dtype=uint16
+  sample rows: [[888, 914], [1010, 1036], [1209, 1232], [1470, 1510], [1821, 1866], [1903, 1921]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[217, 249], [360, 471], [589, 625], [748, 809], [1331, 1466], [1590, 1639]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[2496, 2507], [2764, 2784], [3233, 3268]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[526, 551], [696, 720], [914, 979], [1147, 1174], [1233, 1269], [1511, 1556]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 30_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[165, 199], [931, 993], [1161, 1184], [1542, 1574], [2239, 2272], [2388, 2456]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[1515, 1541], [2337, 2385], [2542, 2567], [3208, 3234], [4181, 4211], [469, 520]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[203, 469], [763, 787], [1293, 1314], [2274, 2334], [2458, 2538], [2680, 2731]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[522, 560], [701, 729], [815, 930], [1045, 1097], [1206, 1266], [1349, 1479]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[566, 643], [1103, 1162], [3316, 3391], [3703, 3900]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 30_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[254, 280], [675, 734], [1588, 1627], [2415, 2474], [2654, 2700], [3362, 3391]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[1479, 1511], [2562, 2594], [3025, 3052], [3480, 3531], [3859, 3887], [281, 307]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[1630, 1679], [2479, 2561], [2700, 2748], [2996, 3103], [3391, 3478]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[309, 668], [767, 1432], [1717, 1834], [2799, 2940], [3147, 3360], [3629, 3685]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[1511, 1586], [1836, 1903], [2597, 2652], [3685, 3758]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 30_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[180, 240], [443, 497], [1345, 1389], [1456, 1489], [2579, 2608], [2722, 2745]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[1269, 1286], [2102, 2127], [3499, 3517], [4061, 4086], [4157, 4171], [244, 292]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[612, 845], [2609, 2644], [2747, 2789], [3634, 3661], [3732, 3750]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[296, 358], [882, 1138], [1547, 1993], [2684, 2721], [2825, 3459], [3518, 3533]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[361, 436], [1286, 1344], [2510, 2578], [3568, 3610], [3986, 4032]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 31_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[196, 228], [446, 492], [719, 760], [1235, 1268], [1595, 1624], [2340, 2389]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[381, 418], [530, 554], [996, 1027], [1852, 1878], [2734, 2769], [3433, 3463]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[228, 281], [494, 530], [1626, 1667], [2390, 2434], [2674, 2734], [2797, 2849]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[316, 337], [820, 962], [1312, 1413], [1722, 1811], [2463, 2632], [3233, 3401]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[556, 718], [1028, 1233], [1413, 1594], [1879, 1950], [2256, 2338], [2890, 3152]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 31_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(28, 2), dtype=uint16
+  sample rows: [[219, 250], [319, 336], [717, 743], [929, 949], [1091, 1115], [1150, 1171]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(24, 2), dtype=uint16
+  sample rows: [[293, 318], [527, 548], [813, 830], [1054, 1073], [1213, 1240], [1772, 1795]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(13, 2), dtype=uint16
+  sample rows: [[255, 293], [747, 808], [1118, 1150], [1172, 1211], [1622, 1639], [1987, 1998]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[387, 476], [984, 1022], [1526, 1579], [1664, 1735], [3009, 3027]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[557, 711], [836, 927], [1248, 1470], [1892, 1955], [2581, 2639], [2731, 2943]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 31_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[270, 299], [702, 723], [1076, 1105], [1464, 1492], [2175, 2212], [2461, 2501]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[2939, 2972], [298, 352], [725, 754], [1304, 1326], [1523, 1566], [2213, 2267]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[1107, 1190], [1493, 1523], [2501, 2507], [3130, 3157]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[355, 501], [755, 871], [1193, 1302], [1567, 1680], [2268, 2346], [2592, 2697]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[161, 267], [604, 697], [912, 1074], [1350, 1465], [1757, 1827], [2108, 2174]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 32_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[154, 181], [326, 352], [412, 482], [564, 613], [1029, 1078], [1188, 1255]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[540, 565], [1616, 1644], [2850, 2873], [3901, 3931], [200, 237], [353, 404]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[183, 197], [485, 539], [613, 675], [1078, 1096], [1257, 1466], [1723, 1881]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[328, 350], [2763, 2800], [3244, 3411], [3708, 3752]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[239, 327], [738, 1027], [1140, 1186], [1503, 1613], [2353, 2425], [2614, 2763]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 32_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(20, 2), dtype=uint16
+  sample rows: [[138, 180], [261, 282], [398, 423], [859, 893], [966, 1002], [1671, 1697]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[1874, 1891], [2359, 2396], [2518, 2554], [2937, 2997], [222, 255], [300, 327]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(13, 2), dtype=uint16
+  sample rows: [[182, 220], [283, 298], [425, 437], [894, 902], [1312, 1354], [1645, 1671]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[1042, 1278], [1385, 1606], [1804, 1850], [2121, 2317], [2821, 2880], [3451, 3503]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[328, 397], [472, 856], [936, 964], [2398, 2464], [2558, 2655], [2998, 3154]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 32_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(20, 2), dtype=uint16
+  sample rows: [[316, 341], [414, 433], [624, 646], [907, 922], [1019, 1035], [1178, 1205]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[710, 728], [996, 1016], [1132, 1177], [1420, 1444], [346, 412], [435, 485]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[650, 705], [1207, 1374], [1395, 1419], [1499, 1530], [1571, 1777], [3296, 3332]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[2523, 2551], [2617, 2883]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[189, 315], [484, 623], [731, 906], [1829, 1880], [2349, 2463], [2950, 3063]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 33_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(19, 2), dtype=uint16
+  sample rows: [[228, 259], [442, 458], [750, 762], [1105, 1124], [1247, 1269], [1699, 1720]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[398, 421], [923, 939], [2438, 2479], [3154, 3185], [3565, 3634], [260, 295]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[302, 360], [594, 665], [763, 790], [978, 992], [2763, 2847], [3140, 3153]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[295, 301], [496, 566], [808, 878], [2208, 2379], [3243, 3374], [3496, 3525]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[422, 437], [1017, 1104], [1169, 1246], [1314, 1697], [2538, 2711], [2907, 3101]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 34_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[276, 306], [601, 629], [984, 1020], [1357, 1395], [1887, 1938], [2310, 2349]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[584, 600], [664, 694], [1141, 1157], [1533, 1567], [2574, 2605], [3097, 3125]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[558, 583], [635, 663]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[345, 518], [1434, 1486], [2389, 2519], [2852, 3015], [3306, 3384], [3577, 3717]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[696, 987], [1161, 1355], [1570, 1886], [2607, 2775], [3129, 3236], [3465, 3506]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 35_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[275, 327], [446, 486], [1078, 1140], [1378, 1437], [1635, 1665], [2480, 2513]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[551, 605], [1500, 1537], [1720, 1740], [2876, 2896], [328, 410], [1142, 1178]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[1442, 1496], [1665, 1718], [2688, 2789]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[488, 550], [1181, 1264], [2831, 2848], [3255, 3290]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[414, 447], [1266, 1376], [1540, 1631], [1742, 2011], [2398, 2478], [2567, 2656]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 36_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[270, 298], [375, 409], [531, 568], [688, 718], [897, 934], [1065, 1102]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[298, 336], [412, 450], [569, 622], [759, 817], [995, 1060], [1105, 1157]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[719, 757], [935, 995], [2295, 2312]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(0,), dtype=uint8
+  sample rows: []
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[339, 375], [451, 528], [625, 686], [821, 896], [1161, 1261], [1346, 1545]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 37_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[200, 243], [457, 504], [841, 862], [1183, 1236], [1562, 1587], [2543, 2570]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[809, 840], [1147, 1180], [3212, 3249], [3486, 3515], [245, 288], [505, 571]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[1653, 1926], [2811, 2845], [3103, 3211]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[295, 452], [576, 764], [921, 1046], [1340, 1460], [1980, 2022], [2889, 3027]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[1464, 1562], [2024, 2182], [3522, 3639]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 38_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[202, 237], [345, 376], [421, 456], [584, 616], [856, 891], [1322, 1359]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[239, 281], [390, 415], [472, 500], [639, 676], [952, 998], [1396, 1430]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[376, 390], [456, 471], [617, 639], [893, 950], [1360, 1396], [1600, 1614]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(0,), dtype=uint8
+  sample rows: []
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[283, 344], [502, 582], [679, 853], [1001, 1316], [1432, 1548], [2349, 2429]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 39_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[302, 338], [546, 594], [729, 767], [1026, 1063], [1147, 1182], [2333, 2376]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[472, 495], [343, 420], [618, 680], [772, 834], [1064, 1111], [1199, 1236]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[597, 615], [1184, 1199], [1482, 1509], [3525, 3587]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[682, 701], [834, 860], [2419, 2457]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[498, 544], [862, 1023], [1112, 1146], [1239, 1429], [1546, 1698], [2460, 2733]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 3_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[186, 216], [429, 455], [553, 576], [861, 889], [1034, 1061], [1279, 1294]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[474, 500], [761, 775], [224, 282], [578, 602], [891, 913], [1062, 1093]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[401, 474], [2181, 2424]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[288, 368], [613, 682], [920, 950], [1100, 1224], [2476, 2533]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[1344, 1585], [2551, 2634], [2901, 3256]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 3_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[223, 244], [317, 343], [478, 494], [564, 579], [986, 1009], [1173, 1192]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[270, 297], [513, 534], [1134, 1164], [2337, 2363], [3516, 3536], [435, 471]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[244, 270], [343, 430], [496, 512], [535, 562], [2006, 2193], [2753, 2776]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[615, 824], [1061, 1096], [1240, 1272], [2253, 2301], [3224, 3477]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[298, 315], [827, 983], [1165, 1173], [1771, 1974], [2365, 2383], [2442, 2465]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 3_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[278, 299], [692, 720], [841, 879], [1108, 1131], [1419, 1461], [1553, 1579]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[538, 575], [1741, 1756], [2573, 2593], [3314, 3339], [302, 325], [721, 766]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[1464, 1526], [1580, 1597], [1692, 1740], [2811, 2841], [3117, 3138], [3228, 3311]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[327, 471], [932, 983], [1175, 1239], [1629, 1645], [2145, 2205], [2364, 2459]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[575, 691], [766, 839], [1015, 1106], [1281, 1416], [2271, 2311], [2594, 2780]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 40_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[352, 391], [526, 561], [706, 743], [888, 919], [1134, 1176], [1510, 1547]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[1811, 1840], [394, 447], [596, 625], [769, 798], [940, 978], [1216, 1262]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[564, 594], [746, 768], [920, 939], [1177, 1214], [1549, 1810], [2683, 2919]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(0,), dtype=uint8
+  sample rows: []
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[214, 349], [451, 525], [635, 700], [806, 892], [982, 1135], [1269, 1511]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 41_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(18, 2), dtype=uint16
+  sample rows: [[181, 217], [651, 687], [930, 966], [1185, 1210], [1612, 1646], [1974, 2008]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[535, 562], [840, 865], [1164, 1183], [1368, 1407], [1878, 1946], [2513, 2556]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[375, 388], [1646, 1876], [2887, 2937], [2956, 2991]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[248, 330], [427, 496], [724, 799], [1003, 1107], [1253, 1322], [2073, 2446]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[565, 651], [868, 930], [1410, 1612], [1947, 1973], [2558, 2596], [3071, 3328]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 41_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[312, 349], [537, 560], [939, 1081], [1336, 1369], [1524, 1593], [2532, 2583]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[680, 712], [351, 424], [573, 605], [1081, 1131], [1371, 1438], [1749, 1804]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2,), dtype=uint16
+  sample rows: [1597, 1750]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[609, 646], [1805, 1888]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[427, 531], [715, 937], [1134, 1331], [1447, 1523], [2423, 2532], [2670, 2762]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 4_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[294, 327], [607, 639], [807, 836], [1175, 1209], [1670, 1710], [2659, 2685]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[1003, 1017], [384, 422], [647, 725], [870, 906], [1213, 1230], [1718, 1758]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2,), dtype=uint16
+  sample rows: [335, 372]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[439, 491], [915, 942], [1234, 1455], [1786, 1903], [3223, 3259], [3384, 3403]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[559, 603], [737, 797], [1029, 1161], [1471, 1659], [1919, 2130], [2569, 2643]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 4_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[224, 270], [656, 694], [751, 789], [1036, 1084], [1720, 1753], [2499, 2550]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[1986, 2011], [2843, 2866], [3709, 3741], [328, 349], [695, 748], [791, 846]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[273, 322], [2550, 2571], [2706, 2840]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[1806, 1952], [2617, 2662], [3554, 3667]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[353, 652], [849, 1034], [1143, 1716], [2388, 2499], [2869, 3280], [3372, 3486]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 4_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[327, 364], [685, 727], [1018, 1073], [1139, 1171], [2314, 2361], [2799, 2841]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[849, 879], [427, 489], [757, 794], [1074, 1133], [1175, 1241], [2363, 2403]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[368, 423], [727, 756], [3392, 3447]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[2408, 2742], [3069, 3253]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[232, 320], [492, 679], [885, 1015], [1275, 1828], [2160, 2313], [2772, 2796]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 5_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[453, 474], [658, 680], [1054, 1079], [1197, 1219], [1330, 1355], [1745, 1772]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[504, 526], [1158, 1174], [1889, 1900], [753, 806], [1086, 1098], [1222, 1256]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2,), dtype=uint16
+  sample rows: [694, 740]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[1105, 1129], [2251, 2311], [2472, 2566], [2690, 2826], [2967, 3004], [3429, 3478]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[260, 434], [543, 640], [836, 1037], [1396, 1732], [2348, 2411], [3105, 3280]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 5_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[225, 289], [525, 545], [751, 776], [1008, 1047], [1437, 1471], [1654, 1682]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[573, 598], [1882, 1897], [3561, 3606], [3630, 3655], [357, 395], [776, 797]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[295, 352], [545, 572], [1050, 1077], [2693, 2710]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[1114, 1279], [1509, 1612], [1730, 1840], [2232, 2321], [2419, 2606], [3199, 3357]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[170, 221], [398, 520], [604, 748], [848, 1004], [1286, 1435], [2611, 2655]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 5_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[181, 218], [337, 379], [517, 552], [614, 663], [1174, 1219], [1273, 1307]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[2153, 2193], [223, 283], [381, 413], [554, 579], [662, 696], [1218, 1270]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(0,), dtype=uint8
+  sample rows: []
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[701, 947], [1347, 2095], [2586, 2640], [2889, 3070], [3624, 3662], [3956, 4058]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[309, 333], [457, 515], [582, 615], [1022, 1173], [2677, 2782], [3117, 3176]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 6_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[146, 167], [456, 492], [549, 577], [782, 824], [1288, 1329], [1560, 1597]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(15, 2), dtype=uint16
+  sample rows: [[1468, 1493], [2482, 2518], [2714, 2738], [263, 310], [500, 537], [587, 639]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[181, 236], [1770, 1809]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[885, 954], [1367, 1416], [1657, 1728], [1863, 1936], [2380, 2434], [2620, 2651]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[324, 438], [657, 770], [2993, 3037]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 6_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[231, 258], [426, 458], [646, 683], [1196, 1239], [1659, 1707], [2256, 2282]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[263, 327], [462, 531], [686, 741], [1242, 1308], [1713, 1796], [2283, 2309]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(0,), dtype=uint8
+  sample rows: []
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[3083, 3161], [3557, 3615]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[327, 422], [535, 643], [749, 1191], [1316, 1653], [2314, 2426], [2530, 2697]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 6_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[240, 277], [423, 462], [586, 627], [815, 850], [987, 1016], [1275, 1302]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[1187, 1234], [278, 356], [465, 525], [628, 666], [852, 972], [1019, 1073]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2,), dtype=uint16
+  sample rows: [3492, 3531]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[528, 552], [668, 740], [1073, 1138], [1351, 1386], [1526, 1598], [1834, 1871]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(10, 2), dtype=uint16
+  sample rows: [[356, 418], [741, 812], [972, 985], [1233, 1274], [1598, 1702], [2652, 2699]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 7_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(24, 2), dtype=uint16
+  sample rows: [[215, 247], [550, 574], [762, 788], [1025, 1044], [1422, 1444], [1483, 1514]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(21, 2), dtype=uint16
+  sample rows: [[476, 503], [737, 758], [929, 946], [1280, 1297], [1741, 1770], [2607, 2623]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[819, 918], [1048, 1144], [1450, 1482], [1516, 1586], [2409, 2423], [2677, 2715]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[311, 422], [629, 700], [1184, 1237], [1627, 1687], [2341, 2365], [2507, 2566]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[503, 549], [956, 1017], [1303, 1417], [1778, 1889], [2627, 2648], [2857, 2909]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 7_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(29, 2), dtype=uint16
+  sample rows: [[163, 189], [345, 382], [578, 605], [840, 875], [1057, 1091], [1350, 1383]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(29, 2), dtype=uint16
+  sample rows: [[291, 310], [546, 565], [764, 791], [1022, 1044], [1225, 1252], [1484, 1506]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[191, 215], [2556, 2583], [2803, 2872], [3124, 3148]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[420, 507], [667, 730], [906, 976], [1131, 1172], [1433, 1446], [1808, 1867]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[312, 344], [566, 577], [792, 839], [1045, 1055], [1253, 1349], [1506, 1565]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 7_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(20, 2), dtype=uint16
+  sample rows: [[161, 200], [300, 325], [415, 444], [649, 691], [883, 919], [1145, 1182]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(20, 2), dtype=uint16
+  sample rows: [[1633, 1672], [1794, 1818], [3168, 3202], [3764, 3784], [201, 241], [325, 361]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[445, 481], [691, 770], [2287, 2359], [2519, 2558], [3031, 3073]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[960, 978], [1225, 1277], [1575, 1600], [2405, 2431], [2818, 2845], [2987, 3009]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[365, 414], [620, 648], [833, 882], [1006, 1145], [1369, 1497], [2144, 2246]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 8_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[271, 297], [379, 397], [880, 906], [1073, 1102], [1543, 1562], [2094, 2111]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(11, 2), dtype=uint16
+  sample rows: [[671, 684], [1626, 1647], [2338, 2372], [3010, 3035], [325, 345], [409, 436]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[1564, 1625], [2788, 3009]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[439, 624], [968, 1023], [2172, 2301], [2498, 2573], [3155, 3218], [3296, 3376]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[694, 833], [1188, 1543], [2593, 2732], [3041, 3111]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 8_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[335, 376], [754, 800], [1474, 1491], [1624, 1648], [1950, 1979], [2056, 2071]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[608, 638], [1337, 1377], [1539, 1562], [2035, 2055], [3570, 3598], [4682, 4696]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[1979, 1991], [2883, 3040]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(6, 2), dtype=uint16
+  sample rows: [[455, 552], [835, 1288], [1680, 1921], [2131, 2148], [3088, 3490], [3939, 4641]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[219, 328], [644, 751], [1382, 1465], [3605, 3744]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 8_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[307, 333], [392, 427], [486, 520], [602, 631], [1077, 1119], [1934, 1978]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[911, 931], [1741, 1795], [347, 390], [428, 481], [522, 561], [710, 744]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[333, 347], [630, 665], [1401, 1742], [3526, 3566]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[744, 861], [1153, 1353], [2925, 3005], [3436, 3464], [3759, 4065]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(8, 2), dtype=uint16
+  sample rows: [[563, 601], [933, 1077], [1797, 1935], [2605, 2640], [2734, 2853], [3046, 3180]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 9_1_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(17, 2), dtype=uint16
+  sample rows: [[209, 233], [291, 326], [538, 558], [605, 636], [913, 935], [1022, 1041]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(16, 2), dtype=uint16
+  sample rows: [[438, 465], [936, 986], [1806, 1826], [3311, 3323], [3587, 3599], [249, 271]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[231, 248], [1041, 1074], [1759, 1795]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[431, 467], [1185, 1270], [3222, 3264], [3557, 3567]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[474, 531], [690, 907], [987, 1021], [1376, 1690], [1855, 2000], [2434, 2502]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 9_2_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[214, 260], [502, 519], [670, 692], [1141, 1179], [1560, 1606], [1674, 1709]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(14, 2), dtype=uint16
+  sample rows: [[455, 485], [577, 598], [1380, 1413], [1845, 1861], [1873, 1880], [2948, 2976]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(2, 2), dtype=uint16
+  sample rows: [[1183, 1374], [2817, 2945]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(3, 2), dtype=uint16
+  sample rows: [[313, 412], [2358, 2679], [3334, 3721]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(7, 2), dtype=uint16
+  sample rows: [[603, 669], [772, 1135], [1419, 1557], [1647, 1670], [1745, 1797], [2980, 3043]]
+  heuristic -> use_seconds=False
+
+================================================================================
+FILE: 9_3_label.mat  tlabs type=<class 'numpy.ndarray'>, shape=(5,)
+ Group 0: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[341, 376], [741, 781], [1013, 1050], [1241, 1282], [2213, 2241], [2422, 2463]]
+  heuristic -> use_seconds=False
+ Group 1: arr.shape=(12, 2), dtype=uint16
+  sample rows: [[787, 835], [381, 444], [1151, 1234], [1333, 1393], [2245, 2284], [2468, 2526]]
+  heuristic -> use_seconds=False
+ Group 2: arr.shape=(5, 2), dtype=uint16
+  sample rows: [[1053, 1148], [2661, 2691], [2934, 3079], [3361, 3397], [3761, 3807]]
+  heuristic -> use_seconds=False
+ Group 3: arr.shape=(4, 2), dtype=uint16
+  sample rows: [[446, 628], [1281, 1330], [1399, 1526], [2729, 2848]]
+  heuristic -> use_seconds=False
+ Group 4: arr.shape=(9, 2), dtype=uint16
+  sample rows: [[666, 734], [837, 1008], [1597, 1780], [2169, 2212], [2285, 2421], [2527, 2615]]
+  heuristic -> use_seconds=False

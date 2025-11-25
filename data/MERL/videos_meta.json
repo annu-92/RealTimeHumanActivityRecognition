@@ -1,0 +1,532 @@
+{
+  "10_1": {
+    "fps": 30.0,
+    "frames": 3796,
+    "source_file": "10_1_crop.mp4"
+  },
+  "10_2": {
+    "fps": 30.0,
+    "frames": 4271,
+    "source_file": "10_2_crop.mp4"
+  },
+  "10_3": {
+    "fps": 30.0,
+    "frames": 4201,
+    "source_file": "10_3_crop.mp4"
+  },
+  "11_1": {
+    "fps": 30.0,
+    "frames": 3752,
+    "source_file": "11_1_crop.mp4"
+  },
+  "11_2": {
+    "fps": 30.0,
+    "frames": 4779,
+    "source_file": "11_2_crop.mp4"
+  },
+  "11_3": {
+    "fps": 30.0,
+    "frames": 3791,
+    "source_file": "11_3_crop.mp4"
+  },
+  "12_1": {
+    "fps": 30.0,
+    "frames": 3782,
+    "source_file": "12_1_crop.mp4"
+  },
+  "12_2": {
+    "fps": 30.0,
+    "frames": 4224,
+    "source_file": "12_2_crop.mp4"
+  },
+  "12_3": {
+    "fps": 30.0,
+    "frames": 3890,
+    "source_file": "12_3_crop.mp4"
+  },
+  "13_1": {
+    "fps": 30.0,
+    "frames": 4006,
+    "source_file": "13_1_crop.mp4"
+  },
+  "13_2": {
+    "fps": 30.0,
+    "frames": 4646,
+    "source_file": "13_2_crop.mp4"
+  },
+  "13_3": {
+    "fps": 30.0,
+    "frames": 4078,
+    "source_file": "13_3_crop.mp4"
+  },
+  "14_1": {
+    "fps": 30.0,
+    "frames": 4459,
+    "source_file": "14_1_crop.mp4"
+  },
+  "14_2": {
+    "fps": 30.0,
+    "frames": 4217,
+    "source_file": "14_2_crop.mp4"
+  },
+  "14_3": {
+    "fps": 30.0,
+    "frames": 4063,
+    "source_file": "14_3_crop.mp4"
+  },
+  "15_1": {
+    "fps": 30.0,
+    "frames": 3890,
+    "source_file": "15_1_crop.mp4"
+  },
+  "15_2": {
+    "fps": 30.0,
+    "frames": 3946,
+    "source_file": "15_2_crop.mp4"
+  },
+  "15_3": {
+    "fps": 30.0,
+    "frames": 3929,
+    "source_file": "15_3_crop.mp4"
+  },
+  "16_1": {
+    "fps": 30.0,
+    "frames": 4276,
+    "source_file": "16_1_crop.mp4"
+  },
+  "16_2": {
+    "fps": 30.0,
+    "frames": 4310,
+    "source_file": "16_2_crop.mp4"
+  },
+  "16_3": {
+    "fps": 30.0,
+    "frames": 4684,
+    "source_file": "16_3_crop.mp4"
+  },
+  "17_1": {
+    "fps": 30.0,
+    "frames": 3941,
+    "source_file": "17_1_crop.mp4"
+  },
+  "17_2": {
+    "fps": 30.0,
+    "frames": 4163,
+    "source_file": "17_2_crop.mp4"
+  },
+  "17_3": {
+    "fps": 30.0,
+    "frames": 4507,
+    "source_file": "17_3_crop.mp4"
+  },
+  "18_1": {
+    "fps": 30.0,
+    "frames": 3895,
+    "source_file": "18_1_crop.mp4"
+  },
+  "18_2": {
+    "fps": 30.0,
+    "frames": 3796,
+    "source_file": "18_2_crop.mp4"
+  },
+  "18_3": {
+    "fps": 30.0,
+    "frames": 4049,
+    "source_file": "18_3_crop.mp4"
+  },
+  "19_1": {
+    "fps": 30.0,
+    "frames": 3912,
+    "source_file": "19_1_crop.mp4"
+  },
+  "19_2": {
+    "fps": 30.0,
+    "frames": 3995,
+    "source_file": "19_2_crop.mp4"
+  },
+  "19_3": {
+    "fps": 30.0,
+    "frames": 3932,
+    "source_file": "19_3_crop.mp4"
+  },
+  "1_1": {
+    "fps": 30.0,
+    "frames": 3920,
+    "source_file": "1_1_crop.mp4"
+  },
+  "1_2": {
+    "fps": 30.0,
+    "frames": 3872,
+    "source_file": "1_2_crop.mp4"
+  },
+  "1_3": {
+    "fps": 30.0,
+    "frames": 5305,
+    "source_file": "1_3_crop.mp4"
+  },
+  "20_1": {
+    "fps": 30.0,
+    "frames": 4121,
+    "source_file": "20_1_crop.mp4"
+  },
+  "20_2": {
+    "fps": 30.0,
+    "frames": 5137,
+    "source_file": "20_2_crop.mp4"
+  },
+  "20_3": {
+    "fps": 30.0,
+    "frames": 4860,
+    "source_file": "20_3_crop.mp4"
+  },
+  "21_1": {
+    "fps": 30.0,
+    "frames": 4196,
+    "source_file": "21_1_crop.mp4"
+  },
+  "21_2": {
+    "fps": 30.0,
+    "frames": 4119,
+    "source_file": "21_2_crop.mp4"
+  },
+  "21_3": {
+    "fps": 30.0,
+    "frames": 4348,
+    "source_file": "21_3_crop.mp4"
+  },
+  "22_1": {
+    "fps": 30.0,
+    "frames": 4395,
+    "source_file": "22_1_crop.mp4"
+  },
+  "22_2": {
+    "fps": 30.0,
+    "frames": 4274,
+    "source_file": "22_2_crop.mp4"
+  },
+  "22_3": {
+    "fps": 30.0,
+    "frames": 4204,
+    "source_file": "22_3_crop.mp4"
+  },
+  "23_1": {
+    "fps": 30.0,
+    "frames": 4186,
+    "source_file": "23_1_crop.mp4"
+  },
+  "23_2": {
+    "fps": 30.0,
+    "frames": 5283,
+    "source_file": "23_2_crop.mp4"
+  },
+  "23_3": {
+    "fps": 30.0,
+    "frames": 6163,
+    "source_file": "23_3_crop.mp4"
+  },
+  "24_1": {
+    "fps": 30.0,
+    "frames": 4228,
+    "source_file": "24_1_crop.mp4"
+  },
+  "24_2": {
+    "fps": 30.0,
+    "frames": 4703,
+    "source_file": "24_2_crop.mp4"
+  },
+  "24_3": {
+    "fps": 30.0,
+    "frames": 4884,
+    "source_file": "24_3_crop.mp4"
+  },
+  "25_1": {
+    "fps": 30.0,
+    "frames": 4346,
+    "source_file": "25_1_crop.mp4"
+  },
+  "25_2": {
+    "fps": 30.0,
+    "frames": 4454,
+    "source_file": "25_2_crop.mp4"
+  },
+  "25_3": {
+    "fps": 30.0,
+    "frames": 4072,
+    "source_file": "25_3_crop.mp4"
+  },
+  "26_1": {
+    "fps": 30.0,
+    "frames": 4505,
+    "source_file": "26_1_crop.mp4"
+  },
+  "26_2": {
+    "fps": 30.0,
+    "frames": 4764,
+    "source_file": "26_2_crop.mp4"
+  },
+  "26_3": {
+    "fps": 30.0,
+    "frames": 4079,
+    "source_file": "26_3_crop.mp4"
+  },
+  "27_1": {
+    "fps": 30.0,
+    "frames": 4063,
+    "source_file": "27_1_crop.mp4"
+  },
+  "27_2": {
+    "fps": 30.0,
+    "frames": 4087,
+    "source_file": "27_2_crop.mp4"
+  },
+  "27_3": {
+    "fps": 30.0,
+    "frames": 4060,
+    "source_file": "27_3_crop.mp4"
+  },
+  "28_1": {
+    "fps": 30.0,
+    "frames": 4026,
+    "source_file": "28_1_crop.mp4"
+  },
+  "28_2": {
+    "fps": 30.0,
+    "frames": 4374,
+    "source_file": "28_2_crop.mp4"
+  },
+  "28_3": {
+    "fps": 30.0,
+    "frames": 3963,
+    "source_file": "28_3_crop.mp4"
+  },
+  "29_1": {
+    "fps": 30.0,
+    "frames": 4473,
+    "source_file": "29_1_crop.mp4"
+  },
+  "29_2": {
+    "fps": 30.0,
+    "frames": 4571,
+    "source_file": "29_2_crop.mp4"
+  },
+  "29_3": {
+    "fps": 30.0,
+    "frames": 5759,
+    "source_file": "29_3_crop.mp4"
+  },
+  "2_1": {
+    "fps": 30.0,
+    "frames": 3804,
+    "source_file": "2_1_crop.mp4"
+  },
+  "2_2": {
+    "fps": 30.0,
+    "frames": 3788,
+    "source_file": "2_2_crop.mp4"
+  },
+  "2_3": {
+    "fps": 30.0,
+    "frames": 3581,
+    "source_file": "2_3_crop.mp4"
+  },
+  "30_1": {
+    "fps": 30.0,
+    "frames": 4368,
+    "source_file": "30_1_crop.mp4"
+  },
+  "30_2": {
+    "fps": 30.0,
+    "frames": 4139,
+    "source_file": "30_2_crop.mp4"
+  },
+  "30_3": {
+    "fps": 30.0,
+    "frames": 4441,
+    "source_file": "30_3_crop.mp4"
+  },
+  "31_1": {
+    "fps": 30.0,
+    "frames": 4093,
+    "source_file": "31_1_crop.mp4"
+  },
+  "31_2": {
+    "fps": 30.0,
+    "frames": 4061,
+    "source_file": "31_2_crop.mp4"
+  },
+  "31_3": {
+    "fps": 30.0,
+    "frames": 3777,
+    "source_file": "31_3_crop.mp4"
+  },
+  "32_1": {
+    "fps": 30.0,
+    "frames": 4202,
+    "source_file": "32_1_crop.mp4"
+  },
+  "32_2": {
+    "fps": 30.0,
+    "frames": 3863,
+    "source_file": "32_2_crop.mp4"
+  },
+  "32_3": {
+    "fps": 30.0,
+    "frames": 3801,
+    "source_file": "32_3_crop.mp4"
+  },
+  "33_1": {
+    "fps": 30.0,
+    "frames": 3862,
+    "source_file": "33_1_crop.mp4"
+  },
+  "34_1": {
+    "fps": 30.0,
+    "frames": 3986,
+    "source_file": "34_1_crop.mp4"
+  },
+  "35_1": {
+    "fps": 30.0,
+    "frames": 3884,
+    "source_file": "35_1_crop.mp4"
+  },
+  "36_1": {
+    "fps": 30.0,
+    "frames": 3780,
+    "source_file": "36_1_crop.mp4"
+  },
+  "37_1": {
+    "fps": 30.0,
+    "frames": 4022,
+    "source_file": "37_1_crop.mp4"
+  },
+  "38_1": {
+    "fps": 30.0,
+    "frames": 3928,
+    "source_file": "38_1_crop.mp4"
+  },
+  "39_1": {
+    "fps": 30.0,
+    "frames": 3980,
+    "source_file": "39_1_crop.mp4"
+  },
+  "3_1": {
+    "fps": 30.0,
+    "frames": 3694,
+    "source_file": "3_1_crop.mp4"
+  },
+  "3_2": {
+    "fps": 30.0,
+    "frames": 3741,
+    "source_file": "3_2_crop.mp4"
+  },
+  "3_3": {
+    "fps": 30.0,
+    "frames": 3506,
+    "source_file": "3_3_crop.mp4"
+  },
+  "40_1": {
+    "fps": 30.0,
+    "frames": 4020,
+    "source_file": "40_1_crop.mp4"
+  },
+  "41_1": {
+    "fps": 30.0,
+    "frames": 4367,
+    "source_file": "41_1_crop.mp4"
+  },
+  "41_2": {
+    "fps": 30.0,
+    "frames": 3712,
+    "source_file": "41_2_crop.mp4"
+  },
+  "4_1": {
+    "fps": 30.0,
+    "frames": 3969,
+    "source_file": "4_1_crop.mp4"
+  },
+  "4_2": {
+    "fps": 30.0,
+    "frames": 3867,
+    "source_file": "4_2_crop.mp4"
+  },
+  "4_3": {
+    "fps": 30.0,
+    "frames": 3770,
+    "source_file": "4_3_crop.mp4"
+  },
+  "5_1": {
+    "fps": 30.0,
+    "frames": 3722,
+    "source_file": "5_1_crop.mp4"
+  },
+  "5_2": {
+    "fps": 30.0,
+    "frames": 3950,
+    "source_file": "5_2_crop.mp4"
+  },
+  "5_3": {
+    "fps": 30.0,
+    "frames": 4232,
+    "source_file": "5_3_crop.mp4"
+  },
+  "6_1": {
+    "fps": 30.0,
+    "frames": 3801,
+    "source_file": "6_1_crop.mp4"
+  },
+  "6_2": {
+    "fps": 30.0,
+    "frames": 3908,
+    "source_file": "6_2_crop.mp4"
+  },
+  "6_3": {
+    "fps": 30.0,
+    "frames": 3873,
+    "source_file": "6_3_crop.mp4"
+  },
+  "7_1": {
+    "fps": 30.0,
+    "frames": 3850,
+    "source_file": "7_1_crop.mp4"
+  },
+  "7_2": {
+    "fps": 30.0,
+    "frames": 3919,
+    "source_file": "7_2_crop.mp4"
+  },
+  "7_3": {
+    "fps": 30.0,
+    "frames": 3917,
+    "source_file": "7_3_crop.mp4"
+  },
+  "8_1": {
+    "fps": 30.0,
+    "frames": 3633,
+    "source_file": "8_1_crop.mp4"
+  },
+  "8_2": {
+    "fps": 30.0,
+    "frames": 4858,
+    "source_file": "8_2_crop.mp4"
+  },
+  "8_3": {
+    "fps": 30.0,
+    "frames": 4277,
+    "source_file": "8_3_crop.mp4"
+  },
+  "9_1": {
+    "fps": 30.0,
+    "frames": 3744,
+    "source_file": "9_1_crop.mp4"
+  },
+  "9_2": {
+    "fps": 30.0,
+    "frames": 3867,
+    "source_file": "9_2_crop.mp4"
+  },
+  "9_3": {
+    "fps": 30.0,
+    "frames": 3959,
+    "source_file": "9_3_crop.mp4"
+  }
+}

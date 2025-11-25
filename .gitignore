@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Logs and cache
+logs/
+*.log
+__pycache__/
+*.pyc
+
+# Large data folders (not needed in Git)
+data/MERL/videos/
+data/MERL/frames/
+data/MERL/keypoints/
+data/MERL/keypoints_semantic/
+data/MERL/sequences_semantic/
+
+# Model checkpoints and temporary files
+*.pt
+*.npy
+*.tmp
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store

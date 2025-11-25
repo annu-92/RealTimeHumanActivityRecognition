@@ -1,0 +1,20 @@
+{
+  "label2id": {
+    "add_to_cart": 0,
+    "browsing": 1,
+    "carry": 2,
+    "compare": 3,
+    "inspect": 4,
+    "leave": 5,
+    "reach_pick": 6
+  },
+  "id2label": {
+    "0": "add_to_cart",
+    "1": "browsing",
+    "2": "carry",
+    "3": "compare",
+    "4": "inspect",
+    "5": "leave",
+    "6": "reach_pick"
+  }
+}
